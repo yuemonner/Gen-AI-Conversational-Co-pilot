@@ -70,7 +70,6 @@ CloudWatch: Monitors performance metrics and logs.
 GitHub Actions: Manages the CI/CD pipeline for deploying updates to the containers in ECS.
 
 #### High-Level Design:
-!RAG Architecture
 
 1. **User Query:**
    - Users interact with the co-pilot via a web interface.
