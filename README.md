@@ -111,12 +111,12 @@ User authentication via Cognito.
 Data encryption with AWS KMS and TLS.
 IAM policies for access control.
 
-#### Threat Modeling:
+**Threat Modeling:
 
 Identify potential threats to the system, including unauthorized access, data breaches, and service disruptions.
 Implement mitigations for each identified threat, such as robust authentication, data encryption, and regular security audits.
 
-####Zero Trust Security Model:
+**Zero Trust Security Model:
 
 Verify every request as though it originates from an open network.
 Ensure least-privilege access, micro-segmentation, and multi-factor authentication.
