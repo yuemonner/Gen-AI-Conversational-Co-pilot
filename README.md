@@ -43,7 +43,9 @@ Load balancing and auto-scaling to handle varying loads.
 ECS and ECR:
 
 Docker containers hosted in ECS, managed by Fargate, ensure scalable and efficient deployment.
-Separate containers for frontend, backend, and vector database functions.
+Separate containers for frontend, backend, and vector database functions. Microservices Architecture:
+Decoupling Services: Docker facilitates a microservices architecture, where the LLM, RAG, frontend, backend, and vector database can all be developed, deployed, and scaled independently. This decoupling enhances flexibility and maintainability.
+
 Data Storage and Processing:
 
 Documents stored in S3.
